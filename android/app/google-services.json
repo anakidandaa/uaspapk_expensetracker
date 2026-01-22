@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "66769815908",
+    "project_id": "papkuas-expensetrack",
+    "storage_bucket": "papkuas-expensetrack.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:66769815908:android:31ee9e704e7157e2101271",
+        "android_client_info": {
+          "package_name": "com.example.expensetracker"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAq1VM31bAUQEkRQO4Ocb0-C39P1q5TKzM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
